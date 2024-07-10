@@ -1,6 +1,6 @@
 # allen
 
-A new Flutter project.
+A new voice assistant Flutter project that uses voice input to generate responses
 
 ## Getting Started
 
